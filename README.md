@@ -31,4 +31,4 @@ rating means different things by script. In script 2 it is taste pleasantness. I
 ΔP vs. CJ. ΔP is the programmed contingency. CJ/CJz is the participant's explicit contingency judgment, P(O|A) − P(O|¬A), which ranges from −1 to 1.
 
 License
-MIT — see LICENSE.
+MIT - see LICENSE.
